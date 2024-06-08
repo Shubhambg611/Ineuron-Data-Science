@@ -6,27 +6,4 @@ SciPy
 XGBoost  
 LightGBM  
 CatBoost  
-Statsmodels  
-
-### Deep Learning Libraries
-TensorFlow  
-Keras  
-PyTorch  
-Caffe  
-Theano  
-Chainer  
-
-### Generative AI Libraries
-GPT-3  
-Transformers 
-DALL-E  
-StyleGAN  
-VQ-VAE-2  
-DeepArt  
-Magenta  
-JAX  
-
-### Cross-Domain Libraries
-OpenCV  
-Matplotlib  
-Seaborn  
+Statsmodels
