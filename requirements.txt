@@ -7,3 +7,4 @@ XGBoost
 LightGBM  
 CatBoost  
 Statsmodels
+mlxtend
