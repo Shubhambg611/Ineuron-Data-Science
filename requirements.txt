@@ -8,3 +8,5 @@ LightGBM
 CatBoost  
 Statsmodels
 mlxtend
+optuna
+
