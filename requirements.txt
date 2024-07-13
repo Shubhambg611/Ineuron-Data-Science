@@ -9,3 +9,4 @@ CatBoost
 Statsmodels
 mlxtend
 optuna
+tensorflow
